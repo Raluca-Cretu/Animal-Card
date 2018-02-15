@@ -1,0 +1,45 @@
+/* Animal Card styling */
+.animalCard {
+	width: 300px;
+	height: 560px;
+    border-color: rgba(0, 0, 0, 0.25);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgba(222, 221, 202, 0.25);
+    box-shadow: 5px 5px #88888845;
+}
+
+h3 {
+    font-size: 26px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+img {
+	width: 300px;
+}
+
+/* Animal Information styling */
+.animalFacts {
+	font-style: italic;
+}
+
+span {
+	font-weight: bold;
+}
+
+ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+.animalInfo {
+	border-color: rgba(0, 0, 0, 0.25);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    height: 330px;
+}
